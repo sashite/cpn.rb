@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'bundler/setup'
+require 'sashite/cpn'
+
+require 'irb'
+IRB.start
